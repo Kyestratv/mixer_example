@@ -1,3 +1,5 @@
+<img width="1013" height="679" alt="image" src="https://github.com/user-attachments/assets/c1823c98-8420-453f-9354-ae981bb494f3" />
+
 # 混频器频谱演示
 
 这个目录包含一个 Tkinter + Matplotlib 桌面演示程序，用于切换多种混频器配置并观察理想化频谱结果。
