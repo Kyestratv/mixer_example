@@ -2,6 +2,6 @@ __pycache__/
 *.pyc
 
 build/
-
+dist/
 runtime_tcl/
 *.spec
